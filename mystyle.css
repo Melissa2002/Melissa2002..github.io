@@ -1,1 +1,9 @@
+table{
+  margin: 0px auto;
+  width: 100%;
+  border-collapse: collapse;
+  font: 20px Arial, sans-serrif;
+  background-color: #f5e5c0;
+  height: 100%;
+}
 
