@@ -9,7 +9,7 @@ table{
 h1{
   font-size: 35px;
 }
-.button{
+button{
   transition-duration: 0.4s;
   padding: 10px 20px; 
   font-size: 20px;
@@ -17,7 +17,7 @@ h1{
   color: Black;
   border:none;
 }
-.button:hover{
+button:hover{
   color: white;
   cursor: pointer;
 }
