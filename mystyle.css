@@ -19,5 +19,6 @@ h1{
 }
 .button:hover{
   color: white;
+  cursor: pointer;
 }
 
