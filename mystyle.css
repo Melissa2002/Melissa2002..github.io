@@ -6,4 +6,18 @@ table{
   background-color: #f5e5c0;
   height: 100%;
 }
+h1{
+  font-size: 35px;
+}
+.button{
+  transition-duration: 0.4s;
+  padding: 10px 20px auto; 
+  font-size: 20px;
+  text-decoration: none;
+  color: Black;
+  border:none;
+}
+.button:hover{
+  color: white;
+}
 
