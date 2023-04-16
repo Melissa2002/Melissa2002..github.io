@@ -19,7 +19,7 @@ button{
   color: Black;
   border:none;
   width: 10%;
-  margin: -2px;
+  margin: -4px;
   background-color: #ABC4AA;
 }
 button:hover{
