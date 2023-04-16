@@ -18,8 +18,8 @@ button{
   text-decoration: none;
   color: Black;
   border:none;
-  width: 15%;
-  margin: 1px;
+  width: 10%;
+  margin: -3px;
   background-color: #ABC4AA;
 }
 button:hover{
