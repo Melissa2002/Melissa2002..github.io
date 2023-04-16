@@ -8,6 +8,9 @@ table{
 h1{
   font-size: 35px;
 }
+h2{
+  color: #675D50;
+}
 button{
   transition-duration: 0.4s;
   padding: 10px 20px; 
