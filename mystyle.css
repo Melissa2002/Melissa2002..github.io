@@ -10,7 +10,7 @@ table{
 }
 h1{
   font-size: 35px;
-  color: #675D50;
+  color: white;
 }
 h2{
   color: #675D50;
@@ -20,7 +20,7 @@ button{
   padding: 10px 20px; 
   font-size: 20px;
   text-decoration: none;
-  color: Black;
+  color: #675D50;
   border:none;
   width: 10%;
   margin: -4px;
