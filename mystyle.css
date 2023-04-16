@@ -23,7 +23,7 @@ button{
   background-color: #ABC4AA;
 }
 button:hover{
-  color: white;
+  background-color: white;
   cursor: pointer;
 }
 
