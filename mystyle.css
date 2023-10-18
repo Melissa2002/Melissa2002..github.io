@@ -4,7 +4,8 @@ body{
 
 table{
   margin: 0px auto;
-  width: 80%;
+  width: 70%;
+  height: 100%;
   border-collapse: collapse;
   font: 20px Arial, sans-serrif;
   background-color: white;
