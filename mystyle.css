@@ -4,7 +4,7 @@ body{
 
 table{
   margin: 0px auto;
-  width: 60%;
+  width: 70%;
   height: 100%;
   border-collapse: collapse;
   font: 20px Arial, sans-serrif;
@@ -37,7 +37,7 @@ td{
   padding:10px; 
   color:#675D50; 
   vertical-align:top; 
-  width:40%;">
+  width:70%;>
 }
 p{
   font-size: 14px;
