@@ -16,7 +16,14 @@ h1{
 }
 h2{
   color: #675D50;
+  padding: 0px;
+  margin: 0px;
 }
+h3{
+    padding: 0px;
+    margin: 0px;
+}
+
 button{
   transition-duration: 0.4s;
   padding: 10px 20px; 
@@ -35,7 +42,7 @@ button:hover{
   text-align:center;
 }
 td{
-  padding: 2px;
+  padding: 10px;
   color:#675D50; 
   vertical-align:top; 
   width:30%;
